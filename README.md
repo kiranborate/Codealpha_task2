@@ -14,3 +14,9 @@ Run from the repository root:
 `python Task3_Handwritten_Recognition/handwritten_recognition.py`
 
 This project recognizes digits, not full handwritten words or sentences.
+outputs
+<img width="1400" height="1200" alt="confusion_matrix" src="https://github.com/user-attachments/assets/f05472f0-cc94-4194-b6a3-742a236bbda7" />
+
+<img width="2000" height="1000" alt="sample_predictions" src="https://github.com/user-attachments/assets/4620c06c-972b-4af9-8791-c5ec937eccee" />
+
+<img width="1400" height="800" alt="training_history" src="https://github.com/user-attachments/assets/78f9842c-77f0-4d07-802d-11b9b95558ce" />
